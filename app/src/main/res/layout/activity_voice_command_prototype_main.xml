@@ -18,7 +18,7 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/voiceCommandPrototypeServiceToggleButton" />
    <Button
-        android:text="Git fetch"
+        android:text="Git pull"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
        />
